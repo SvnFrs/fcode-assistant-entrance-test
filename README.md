@@ -41,7 +41,7 @@ The test is divided into three parts:
   
 - ## Part 1: Coding Challenge
 
-You will have to solve the following problems using Golang. You can use any online judge to test your solutions, but we recommend using Codeforces. You can find the problems in the following link:
+You will have to solve some programming problems using Golang. Try to solve as many problems as you can with the optimized code. The problems are available in the following link: ___
 
 - ## Part 2: Discord Bot
 
